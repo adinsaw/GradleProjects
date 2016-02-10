@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SearchAndSortTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-02-09T21:33:57" hostname="AMUSLT25366" time="0.001">
+<testsuite name="SearchAndSortTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-02-10T17:53:11" hostname="AMUSLT25366" time="0.0">
   <properties/>
-  <testcase name="testSearcharray" classname="SearchAndSortTest" time="0.001"/>
+  <testcase name="testSearcharray" classname="SearchAndSortTest" time="0.0"/>
   <testcase name="testMain" classname="SearchAndSortTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
