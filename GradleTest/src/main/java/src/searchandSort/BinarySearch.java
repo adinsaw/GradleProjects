@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BinarySearch {
 	
-static int[] data={4,7,9,10,67,78};
+static int[] data={4,7,9,10,67,78,7};
 static int input=2;
 
 	public static void main (String[] args)
